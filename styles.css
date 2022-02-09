@@ -1,0 +1,32 @@
+.counter_content {
+  background-image: url("file:///Users/Shuggs/Desktop/JS%20Projects%20/Train-Counter/trainstation.jpeg");
+  width: 600px;
+  height: 600px;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.number {
+  text-align: center;
+  font-size: 100px;
+  color: deepskyblue;
+}
+
+.btn-primary {
+  background-color: deepskyblue;
+  border-color: deepskyblue;
+  width: 140px;
+  height: 50px;
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  color: springgreen;
+  font-size: 40px;
+  font-weight: bold;
+}
